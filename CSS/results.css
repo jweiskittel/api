@@ -1,0 +1,21 @@
+.clearfix {
+    border: solid 3px white;
+    background: rgba(2, 2, 2, 0.3);
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2rem;
+    border-radius: 20px;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(44, 224, 215);
+    text-shadow: 1px 1px 1px gray;
+    font-size: 32px;
+}
+
+.coordinates {
+    color: rgb(255, 45, 157);
+    text-shadow: 1px 1px 1px gray
+}
